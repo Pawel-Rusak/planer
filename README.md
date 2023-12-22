@@ -1,0 +1,2 @@
+# planer
+generator planw zajec
